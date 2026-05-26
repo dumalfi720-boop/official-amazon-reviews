@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Official Amazon Reviews – Top Picks 2026</title>
+  <meta name="description" content="Unbiased, in-depth Amazon product reviews to help you make the best buying decision in 2026.">
+  <link rel="canonical" href="https://official-amazon-reviews.vercel.app/">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Official Amazon Reviews","url":"https://official-amazon-reviews.vercel.app"}</script>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Segoe UI',sans-serif;background:#f4f6f9;color:#222}
+    header{background:#111;color:#fff;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+    header .logo{font-size:1.3rem;font-weight:700;color:#ff9900}
+    nav a{color:#ddd;text-decoration:none;margin-left:18px;font-size:.9rem}
+    nav a:hover{color:#ff9900}
+    .hero{background:linear-gradient(135deg,#111 60%,#1a1a2e);color:#fff;padding:60px 24px;text-align:center}
+    .hero h1{font-size:2.2rem;font-weight:800;margin-bottom:12px}
+    .hero h1 span{color:#ff9900}
+    .hero p{font-size:1.05rem;color:#ccc;max-width:600px;margin:0 auto}
+    .section{padding:40px 24px;max-width:1200px;margin:0 auto}
+    .section h2{font-size:1.5rem;font-weight:700;margin-bottom:24px;border-left:4px solid #ff9900;padding-left:12px}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+    @media(max-width:768px){.grid{grid-template-columns:1fr}}
+    @media(max-width:1024px){.grid{grid-template-columns:repeat(2,1fr)}}
+    .card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.08);transition:transform .2s,box-shadow .2s;text-decoration:none;color:inherit;display:block}
+    .card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(0,0,0,.14)}
+    .card img{width:100%;height:180px;object-fit:cover;background:#f0f0f0}
+    .card-body{padding:16px}
+    .card-cat{font-size:.75rem;color:#ff9900;font-weight:700;text-transform:uppercase;margin-bottom:6px}
+    .card-title{font-size:1rem;font-weight:700;margin-bottom:8px;line-height:1.4}
+    .card-desc{font-size:.85rem;color:#666;line-height:1.5}
+    .card-footer{padding:12px 16px;background:#fafafa;border-top:1px solid #eee;display:flex;align-items:center;justify-content:space-between}
+    .card-footer span{font-size:.8rem;color:#999}
+    .btn-read{background:#ff9900;color:#fff;border:none;padding:7px 14px;border-radius:6px;font-size:.82rem;font-weight:700;cursor:pointer;text-decoration:none}
+    .empty{text-align:center;padding:60px;color:#999;font-size:1.1rem}
+    footer{background:#111;color:#888;text-align:center;padding:24px;font-size:.85rem;margin-top:60px}
+    footer span{color:#ff9900}
+  </style>
+</head>
+<body>
+<header>
+  <div class="logo">⭐ Official Amazon Reviews</div>
+  <nav>
+    <a href="/">Home</a>
+    <a href="#electronics">Electronics</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <h1>Top Amazon Products <span>2026</span></h1>
+  <p>Unbiased, AI-powered reviews to help you choose the best products on Amazon.</p>
+</div>
+
+<div class="section" id="electronics">
+  <h2>Latest Reviews</h2>
+  <div class="grid" id="articles-grid">
+    <div class="empty">No reviews published yet. Check back soon!</div>
+  </div>
+</div>
+
+<footer>© 2026 <span>Official Amazon Reviews</span> · All rights reserved · Affiliate Disclosure: We earn commissions from qualifying purchases.</footer>
+
+<script>
+async function loadArticles() {
+  try {
+    const res = await fetch('/articles/index.json');
+    if (!res.ok) return;
+    const articles = await res.json();
+    if (!articles.length) return;
+    const grid = document.getElementById('articles-grid');
+    grid.innerHTML = articles.map(a => `
+      <a class="card" href="/articles/${a.slug}/">
+        <img src="${a.image}" alt="${a.title}" loading="lazy" onerror="this.src='https://placehold.co/400x180/ff9900/fff?text=Review'">
+        <div class="card-body">
+          <div class="card-cat">${a.category}</div>
+          <div class="card-title">${a.title}</div>
+          <div class="card-desc">${a.description}</div>
+        </div>
+        <div class="card-footer">
+          <span>${a.date}</span>
+          <span class="btn-read">Read Review →</span>
+        </div>
+      </a>`).join('');
+  } catch(e) {}
+}
+loadArticles();
+</script>
+</body>
+</html>
