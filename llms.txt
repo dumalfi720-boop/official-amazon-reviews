@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (89 total)
+## Available Articles (90 total)
 
+- [Top 4 Best ASUS Zenfone 10 5G 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-107-asus-zenfone-10-5g/): Complete comparison of the best ASUS Zenfone 10 5G available on Amazon in 2026.
 - [Top 4 Best Sony Xperia 1 VI 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-106-sony-xperia-1-vi/): Complete comparison of the best Sony Xperia 1 VI available on Amazon in 2026.
 - [Top 4 Best Google Pixel 9 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-105-google-pixel-9-pro/): Complete comparison of the best Google Pixel 9 Pro available on Amazon in 2026.
 - [Top 4 Best Motorola Edge 20 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-104-motorola-edge-20-pro/): Complete comparison of the best Motorola Edge 20 Pro available on Amazon in 2026.
