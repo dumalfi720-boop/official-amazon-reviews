@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (75 total)
+## Available Articles (76 total)
 
+- [Top 4 Best ASUS ROG XG Mobile 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-91-asus-rog-xg-mobile/): Complete comparison of the best ASUS ROG XG Mobile available on Amazon in 2026.
 - [Top 3 Best LG gram Pro 17-inch 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-89-lg-gram-pro-17-inch/): Complete comparison of the best LG gram Pro 17-inch available on Amazon in 2026.
 - [Top 4 Best Lenovo ThinkPad P16 Gen 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-87-lenovo-thinkpad-p16-gen/): Complete comparison of the best Lenovo ThinkPad P16 Gen available on Amazon in 2026.
 - [Top 3 Best HP Z2 G1i Workstation 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-86-hp-z2-g1i-workstation/): Complete comparison of the best HP Z2 G1i Workstation available on Amazon in 2026.
