@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (60 total)
+## Available Articles (61 total)
 
+- [Top 4 Best Lenovo ThinkPad T1g Gen 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-69-lenovo-thinkpad-t1g-gen/): Complete comparison of the best Lenovo ThinkPad T1g Gen available on Amazon in 2026.
 - [Top 2 Best msi EdgeXpert AI Mini 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-68-msi-edgexpert-ai-mini/): Complete comparison of the best msi EdgeXpert AI Mini available on Amazon in 2026.
 - [Top 4 Best ASUS Ascent GX10 AI 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-66-asus-ascent-gx10-ai/): Complete comparison of the best ASUS Ascent GX10 AI available on Amazon in 2026.
 - [Top 4 Best Skytech Gaming Prism 4 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-65-skytech-gaming-prism-4/): Complete comparison of the best Skytech Gaming Prism 4 available on Amazon in 2026.
