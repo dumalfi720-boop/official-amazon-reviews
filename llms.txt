@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (76 total)
+## Available Articles (77 total)
 
+- [Top 4 Best Skytech Gaming King 95 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-92-skytech-gaming-king-95/): Complete comparison of the best Skytech Gaming King 95 available on Amazon in 2026.
 - [Top 4 Best ASUS ROG XG Mobile 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-91-asus-rog-xg-mobile/): Complete comparison of the best ASUS ROG XG Mobile available on Amazon in 2026.
 - [Top 3 Best LG gram Pro 17-inch 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-89-lg-gram-pro-17-inch/): Complete comparison of the best LG gram Pro 17-inch available on Amazon in 2026.
 - [Top 4 Best Lenovo ThinkPad P16 Gen 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-87-lenovo-thinkpad-p16-gen/): Complete comparison of the best Lenovo ThinkPad P16 Gen available on Amazon in 2026.
