@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (39 total)
+## Available Articles (40 total)
 
+- [Top 4 Best ASUS Zenbook Duo Laptop 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-43-asus-zenbook-duo-laptop/): Complete comparison of the best ASUS Zenbook Duo Laptop available on Amazon in 2026.
 - [Top 4 Best ASUS ROG Strix Scar 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-42-asus-rog-strix-scar/): Complete comparison of the best ASUS ROG Strix Scar available on Amazon in 2026.
 - [Top 4 Best Lenovo Legion Pro 7i 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-41-lenovo-legion-pro-7i/): Complete comparison of the best Lenovo Legion Pro 7i available on Amazon in 2026.
 - [Top 3 Best AMD Ryzen™ Threadripper™ PRO 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-40-amd-ryzen-threadripper-pro/): Complete comparison of the best AMD Ryzen™ Threadripper™ PRO available on Amazon in 2026.
