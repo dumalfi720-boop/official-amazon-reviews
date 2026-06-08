@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (19 total)
+## Available Articles (20 total)
 
+- [Top 4 Best GIGABYTE AORUS GeForce RTX 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-21-gigabyte-aorus-geforce-rtx/): Complete comparison of the best GIGABYTE AORUS GeForce RTX available on Amazon in 2026.
 - [Top 4 Best Sony Alpha FX3 | 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-20-sony-alpha-fx3/): Complete comparison of the best Sony Alpha FX3 | available on Amazon in 2026.
 - [Top 4 Best Sony Alpha 7R VI 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-18-sony-alpha-7r-vi/): Complete comparison of the best Sony Alpha 7R VI available on Amazon in 2026.
 - [Top 4 Best Lenovo Legion Pro 7i 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-17-lenovo-legion-pro-7i/): Complete comparison of the best Lenovo Legion Pro 7i available on Amazon in 2026.
