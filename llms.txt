@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (93 total)
+## Available Articles (94 total)
 
+- [Top 4 Best BlackBerry KEY2 64GB (Single-SIM, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-111-blackberry-key2-64gb-single-sim/): Complete comparison of the best BlackBerry KEY2 64GB (Single-SIM, available on Amazon in 2026.
 - [Top 4 Best OPPO Find N6 Dual-SIM 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-110-oppo-find-n6-dual-sim/): Complete comparison of the best OPPO Find N6 Dual-SIM available on Amazon in 2026.
 - [Top 4 Best NUU B40 5G, Cell 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-109-nuu-b40-5g-cell/): Complete comparison of the best NUU B40 5G, Cell available on Amazon in 2026.
 - [Top 4 Best Samsung Galaxy Z Fold7 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-108-samsung-galaxy-z-fold7/): Complete comparison of the best Samsung Galaxy Z Fold7 available on Amazon in 2026.
