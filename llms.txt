@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (57 total)
+## Available Articles (58 total)
 
+- [Top 4 Best Skytech Gaming Prism 4 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-65-skytech-gaming-prism-4/): Complete comparison of the best Skytech Gaming Prism 4 available on Amazon in 2026.
 - [Top 4 Best Lenovo Tower 7i Gen 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-63-lenovo-tower-7i-gen/): Complete comparison of the best Lenovo Tower 7i Gen available on Amazon in 2026.
 - [Top 4 Best Lenovo ThinkStation P8 30HH007TUS 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-62-lenovo-thinkstation-p8-30hh007tus/): Complete comparison of the best Lenovo ThinkStation P8 30HH007TUS available on Amazon in 2026.
 - [Top 4 Best Lenovo Legion Pro 7i 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-61-lenovo-legion-pro-7i/): Complete comparison of the best Lenovo Legion Pro 7i available on Amazon in 2026.
