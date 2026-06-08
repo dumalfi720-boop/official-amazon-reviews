@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (67 total)
+## Available Articles (68 total)
 
+- [Top 4 Best Cooler Master TD5 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-79-cooler-master-td5-pro/): Complete comparison of the best Cooler Master TD5 Pro available on Amazon in 2026.
 - [Top 4 Best Samsung QMC LFD Display, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-78-samsung-qmc-lfd-display/): Complete comparison of the best Samsung QMC LFD Display, available on Amazon in 2026.
 - [Top 4 Best EXCaliberPC [2025] ASUS ROG 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-77-excaliberpc-2025-asus-rog/): Complete comparison of the best EXCaliberPC [2025] ASUS ROG available on Amazon in 2026.
 - [Top 4 Best ROG NUC (2025) Gaming 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-74-rog-nuc-2025-gaming/): Complete comparison of the best ROG NUC (2025) Gaming available on Amazon in 2026.
