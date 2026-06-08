@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (66 total)
+## Available Articles (67 total)
 
+- [Top 4 Best Samsung QMC LFD Display, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-78-samsung-qmc-lfd-display/): Complete comparison of the best Samsung QMC LFD Display, available on Amazon in 2026.
 - [Top 4 Best EXCaliberPC [2025] ASUS ROG 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-77-excaliberpc-2025-asus-rog/): Complete comparison of the best EXCaliberPC [2025] ASUS ROG available on Amazon in 2026.
 - [Top 4 Best ROG NUC (2025) Gaming 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-74-rog-nuc-2025-gaming/): Complete comparison of the best ROG NUC (2025) Gaming available on Amazon in 2026.
 - [Top 1 Best AMD 100-100000723WOF Ryzen Threadripper 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-73-amd-100-100000723wof-ryzen-threadripper/): Complete comparison of the best AMD 100-100000723WOF Ryzen Threadripper available on Amazon in 2026.
