@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (91 total)
+## Available Articles (92 total)
 
+- [Top 4 Best NUU B40 5G, Cell 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-109-nuu-b40-5g-cell/): Complete comparison of the best NUU B40 5G, Cell available on Amazon in 2026.
 - [Top 4 Best Samsung Galaxy Z Fold7 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-108-samsung-galaxy-z-fold7/): Complete comparison of the best Samsung Galaxy Z Fold7 available on Amazon in 2026.
 - [Top 4 Best ASUS Zenfone 10 5G 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-107-asus-zenfone-10-5g/): Complete comparison of the best ASUS Zenfone 10 5G available on Amazon in 2026.
 - [Top 4 Best Sony Xperia 1 VI 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-106-sony-xperia-1-vi/): Complete comparison of the best Sony Xperia 1 VI available on Amazon in 2026.
