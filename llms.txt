@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (109 total)
+## Available Articles (110 total)
 
+- [Top 4 Best OnePlus 7 Pro - 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-130-oneplus-7-pro/): Complete comparison of the best OnePlus 7 Pro - available on Amazon in 2026.
 - [Top 4 Best OnePlus 10 Pro 5G 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-129-oneplus-10-pro-5g/): Complete comparison of the best OnePlus 10 Pro 5G available on Amazon in 2026.
 - [Top 4 Best OnePlus 5T A5010 128GB 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-128-oneplus-5t-a5010-128gb/): Complete comparison of the best OnePlus 5T A5010 128GB available on Amazon in 2026.
 - [Top 4 Best OPPO Find X8 Dual-SIM 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-126-oppo-find-x8-dual-sim/): Complete comparison of the best OPPO Find X8 Dual-SIM available on Amazon in 2026.
