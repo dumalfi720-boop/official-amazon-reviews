@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (23 total)
+## Available Articles (24 total)
 
+- [Top 4 Best ROG NUC (2025) Gaming 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-25-rog-nuc-2025-gaming/): Complete comparison of the best ROG NUC (2025) Gaming available on Amazon in 2026.
 - [Top 1 Best AMD 100-100000723WOF Ryzen Threadripper 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-24-amd-100-100000723wof-ryzen-threadripper/): Complete comparison of the best AMD 100-100000723WOF Ryzen Threadripper available on Amazon in 2026.
 - [Top 4 Best Canon EOS C50 Body 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-23-canon-eos-c50-body/): Complete comparison of the best Canon EOS C50 Body available on Amazon in 2026.
 - [Top 2 Best Valerion VisionMaster Max 4K 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-22-valerion-visionmaster-max-4k/): Complete comparison of the best Valerion VisionMaster Max 4K available on Amazon in 2026.
