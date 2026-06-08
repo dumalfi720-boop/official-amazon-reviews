@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (99 total)
+## Available Articles (100 total)
 
+- [Top 4 Best Motorola Razr 70 Ultra 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-119-motorola-razr-70-ultra/): Complete comparison of the best Motorola Razr 70 Ultra available on Amazon in 2026.
 - [Top 4 Best The Brick Phone Access 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-118-the-brick-phone-access/): Complete comparison of the best The Brick Phone Access available on Amazon in 2026.
 - [Top 4 Best Google Pixel 9 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-117-google-pixel-9-pro/): Complete comparison of the best Google Pixel 9 Pro available on Amazon in 2026.
 - [Top 4 Best Samsung Galaxy Z Fold7 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-114-samsung-galaxy-z-fold7/): Complete comparison of the best Samsung Galaxy Z Fold7 available on Amazon in 2026.
