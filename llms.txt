@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (41 total)
+## Available Articles (42 total)
 
+- [Top 4 Best HP ZBook 8 G1i 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-45-hp-zbook-8-g1i/): Complete comparison of the best HP ZBook 8 G1i available on Amazon in 2026.
 - [Top 4 Best Sony FX2 Full-Frame Cinema 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-44-sony-fx2-full-frame-cinema/): Complete comparison of the best Sony FX2 Full-Frame Cinema available on Amazon in 2026.
 - [Top 4 Best ASUS Zenbook Duo Laptop 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-43-asus-zenbook-duo-laptop/): Complete comparison of the best ASUS Zenbook Duo Laptop available on Amazon in 2026.
 - [Top 4 Best ASUS ROG Strix Scar 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-42-asus-rog-strix-scar/): Complete comparison of the best ASUS ROG Strix Scar available on Amazon in 2026.
