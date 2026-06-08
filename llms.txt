@@ -1,0 +1,42 @@
+# Official Amazon Reviews
+
+> Independent product comparison site reviewing the best Amazon products of 2026. All reviews are based on detailed research, customer feedback, and independent analysis. We do not accept payment for positive reviews.
+
+## About This Site
+- Publisher: Official Amazon Reviews editorial team
+- Review methodology: Independent research, verified customer feedback, and technical specification analysis
+- Affiliate disclosure: Contains Amazon affiliate links — commissions support our independent research
+- Content updated: June 2026
+
+## What We Cover
+- Consumer electronics and computers
+- Gaming desktops and laptops
+- Professional workstations and NAS systems
+- Audio equipment and speakers
+- Photography and camera gear
+- Cables, adapters, and accessories
+- Smart home and mobile accessories
+
+## Product Comparison Articles
+- [Top 4 Best Sony Alpha 7R VI 2026](https://official-amazon-reviews.vercel.app/articles/group-18-sony-alpha-7r-vi/): Best mirrorless cameras on Amazon 2026
+- [Top 4 Best Lenovo Legion Pro 7i 2026](https://official-amazon-reviews.vercel.app/articles/group-17-lenovo-legion-pro-7i/): Best gaming laptops on Amazon 2026
+- [Top 4 Best Lenovo ThinkPad T1g Gen 2026](https://official-amazon-reviews.vercel.app/articles/group-16-lenovo-thinkpad-t1g-gen/): Best business laptops on Amazon 2026
+- [Top 4 Best EZ AD TV Digital 2026](https://official-amazon-reviews.vercel.app/articles/group-15-ez-ad-tv-digital/): Best digital signage TVs on Amazon 2026
+- [Top 4 Best Turtlebox Ranger Outdoor 2026](https://official-amazon-reviews.vercel.app/articles/group-14-turtlebox-ranger-loud-outdoor/): Best outdoor Bluetooth speakers on Amazon 2026
+- [Top 4 Best BENFEI DisplayPort to VGA 2026](https://official-amazon-reviews.vercel.app/articles/group-13-benfei-displayport-to-vga-gold-plated/): Best display adapters on Amazon 2026
+- [Top 4 Best H2O Audio Surge Waterproof 2026](https://official-amazon-reviews.vercel.app/articles/group-12-h2o-audio-surge-waterproof/): Best waterproof headphones on Amazon 2026
+- [Top 4 Best ASUS Ascent GX10 AI 2026](https://official-amazon-reviews.vercel.app/articles/group-10-asus-ascent-gx10-ai/): Best AI desktop computers on Amazon 2026
+- [Top 4 Best Skytech Gaming Prism 4 2026](https://official-amazon-reviews.vercel.app/articles/group-9-skytech-gaming-prism-4/): Best prebuilt gaming PCs on Amazon 2026
+- [Top 4 Best Lenovo ThinkStation P8 2026](https://official-amazon-reviews.vercel.app/articles/group-8-lenovo-thinkstation-p8-30hh007tus/): Best professional workstations on Amazon 2026
+- [Top 4 Best ZOTAC MEK Gaming PC 2026](https://official-amazon-reviews.vercel.app/articles/group-7-zotac-mek-gaming-pc/): Best compact gaming PCs on Amazon 2026
+- [Top 4 Best Corsair Vengeance i7500 Gaming 2026](https://official-amazon-reviews.vercel.app/articles/group-5-corsair-vengeance-i7500-gaming/): Best gaming desktop PCs on Amazon 2026
+- [Top 4 Best Synology DiskStation DS1823xs+ NAS 2026](https://official-amazon-reviews.vercel.app/articles/group-4-synology-diskstation-ds1823xs-nas/): Best NAS storage systems on Amazon 2026
+- [Top 4 Best 150ft 4K HDMI Cable 2026](https://official-amazon-reviews.vercel.app/articles/group-3-150ft-4k-hdmi-cable/): Best long HDMI cables on Amazon 2026
+- [Top 4 Best HP ZBook Fury G1i 2026](https://official-amazon-reviews.vercel.app/articles/group-2-hp-zbook-fury-g1i/): Best mobile workstations on Amazon 2026
+- [Top 4 Best 12-Inch Mobile Screen Magnifier 2026](https://official-amazon-reviews.vercel.app/articles/group-1-12-inch-mobile-screen-magnifier/): Best phone screen magnifiers on Amazon 2026
+
+## Key Facts
+- All products sold on Amazon.com with verified buyer reviews
+- Comparison methodology: features, price-performance ratio, customer ratings, warranty
+- Articles include pros/cons, FAQ, and buying guides
+- No paid placements — ranking based on independent analysis only
