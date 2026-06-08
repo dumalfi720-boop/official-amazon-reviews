@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (80 total)
+## Available Articles (81 total)
 
+- [Top 4 Best Skytech Gaming Azure 3 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-97-skytech-gaming-azure-3/): Complete comparison of the best Skytech Gaming Azure 3 available on Amazon in 2026.
 - [Top 4 Best ROG GR70 Gaming Mini 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-96-rog-gr70-gaming-mini/): Complete comparison of the best ROG GR70 Gaming Mini available on Amazon in 2026.
 - [Top 4 Best Skytech Gaming King 95 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-94-skytech-gaming-king-95/): Complete comparison of the best Skytech Gaming King 95 available on Amazon in 2026.
 - [Top 1 Best The Horizon Autherium Dragon 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-93-the-horizon-autherium-dragon/): Complete comparison of the best The Horizon Autherium Dragon available on Amazon in 2026.
