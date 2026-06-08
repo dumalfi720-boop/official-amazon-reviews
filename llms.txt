@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (95 total)
+## Available Articles (96 total)
 
+- [Top 4 Best Motorola Razr 5G (2020) 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-113-motorola-razr-5g-2020/): Complete comparison of the best Motorola Razr 5G (2020) available on Amazon in 2026.
 - [Top 4 Best OPPO Find X9 Ultra 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-112-oppo-find-x9-ultra/): Complete comparison of the best OPPO Find X9 Ultra available on Amazon in 2026.
 - [Top 4 Best BlackBerry KEY2 64GB (Single-SIM, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-111-blackberry-key2-64gb-single-sim/): Complete comparison of the best BlackBerry KEY2 64GB (Single-SIM, available on Amazon in 2026.
 - [Top 4 Best OPPO Find N6 Dual-SIM 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-110-oppo-find-n6-dual-sim/): Complete comparison of the best OPPO Find N6 Dual-SIM available on Amazon in 2026.
