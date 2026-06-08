@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (32 total)
+## Available Articles (33 total)
 
+- [Top 4 Best ASUS ROG XG Mobile 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-36-asus-rog-xg-mobile/): Complete comparison of the best ASUS ROG XG Mobile available on Amazon in 2026.
 - [Top 4 Best Dell Precision 7780 Mobile 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-35-dell-precision-7780-mobile/): Complete comparison of the best Dell Precision 7780 Mobile available on Amazon in 2026.
 - [Top 4 Best Skytech Gaming Azure 3 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-34-skytech-gaming-azure-3/): Complete comparison of the best Skytech Gaming Azure 3 available on Amazon in 2026.
 - [Top 4 Best Sony Alpha 7 V 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-33-sony-alpha-7-v/): Complete comparison of the best Sony Alpha 7 V available on Amazon in 2026.
