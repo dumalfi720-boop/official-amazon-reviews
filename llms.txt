@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (45 total)
+## Available Articles (46 total)
 
+- [Top 4 Best iBUYPOWER Y40 PRO Black 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-50-ibuypower-y40-pro-black/): Complete comparison of the best iBUYPOWER Y40 PRO Black available on Amazon in 2026.
 - [Top 4 Best FUJIFILM X-T5 Mirrorless Digital 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-49-fujifilm-x-t5-mirrorless-digital/): Complete comparison of the best FUJIFILM X-T5 Mirrorless Digital available on Amazon in 2026.
 - [Top 2 Best AMD Ryzen™ Threadripper™ 9970X 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-48-amd-ryzen-threadripper-9970x/): Complete comparison of the best AMD Ryzen™ Threadripper™ 9970X available on Amazon in 2026.
 - [Top 4 Best iBUYPOWER Element Gaming PC 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-47-ibuypower-element-gaming-pc/): Complete comparison of the best iBUYPOWER Element Gaming PC available on Amazon in 2026.
