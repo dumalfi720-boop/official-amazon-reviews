@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (87 total)
+## Available Articles (88 total)
 
+- [Top 4 Best Google Pixel 9 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-105-google-pixel-9-pro/): Complete comparison of the best Google Pixel 9 Pro available on Amazon in 2026.
 - [Top 4 Best Motorola Edge 20 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-104-motorola-edge-20-pro/): Complete comparison of the best Motorola Edge 20 Pro available on Amazon in 2026.
 - [Top 4 Best HONOR 600 Dual-SIM 256GB 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-103-honor-600-dual-sim-256gb/): Complete comparison of the best HONOR 600 Dual-SIM 256GB available on Amazon in 2026.
 - [Top 4 Best Oppo Find X2 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-102-oppo-find-x2-pro/): Complete comparison of the best Oppo Find X2 Pro available on Amazon in 2026.
