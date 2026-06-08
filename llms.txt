@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (62 total)
+## Available Articles (63 total)
 
+- [Top 3 Best HP Z2 G1i Workstation 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-72-hp-z2-g1i-workstation/): Complete comparison of the best HP Z2 G1i Workstation available on Amazon in 2026.
 - [Top 4 Best ASUS ROG Zephyrus Duo 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-70-asus-rog-zephyrus-duo/): Complete comparison of the best ASUS ROG Zephyrus Duo available on Amazon in 2026.
 - [Top 4 Best Lenovo ThinkPad T1g Gen 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-69-lenovo-thinkpad-t1g-gen/): Complete comparison of the best Lenovo ThinkPad T1g Gen available on Amazon in 2026.
 - [Top 2 Best msi EdgeXpert AI Mini 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-68-msi-edgexpert-ai-mini/): Complete comparison of the best msi EdgeXpert AI Mini available on Amazon in 2026.
