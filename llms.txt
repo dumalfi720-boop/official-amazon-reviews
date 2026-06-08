@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (35 total)
+## Available Articles (36 total)
 
+- [Top 4 Best Samsung SSD 9100 PRO 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-39-samsung-ssd-9100-pro/): Complete comparison of the best Samsung SSD 9100 PRO available on Amazon in 2026.
 - [Top 4 Best Canon EOS R6 Mark 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-38-canon-eos-r6-mark/): Complete comparison of the best Canon EOS R6 Mark available on Amazon in 2026.
 - [Top 4 Best Panasonic LUMIX S1II 6K 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-37-panasonic-lumix-s1ii-6k/): Complete comparison of the best Panasonic LUMIX S1II 6K available on Amazon in 2026.
 - [Top 4 Best ASUS ROG XG Mobile 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-36-asus-rog-xg-mobile/): Complete comparison of the best ASUS ROG XG Mobile available on Amazon in 2026.
