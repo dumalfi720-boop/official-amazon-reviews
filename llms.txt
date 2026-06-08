@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (78 total)
+## Available Articles (79 total)
 
+- [Top 4 Best Skytech Gaming King 95 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-94-skytech-gaming-king-95/): Complete comparison of the best Skytech Gaming King 95 available on Amazon in 2026.
 - [Top 1 Best The Horizon Autherium Dragon 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-93-the-horizon-autherium-dragon/): Complete comparison of the best The Horizon Autherium Dragon available on Amazon in 2026.
 - [Top 4 Best Skytech Gaming King 95 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-92-skytech-gaming-king-95/): Complete comparison of the best Skytech Gaming King 95 available on Amazon in 2026.
 - [Top 4 Best ASUS ROG XG Mobile 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-91-asus-rog-xg-mobile/): Complete comparison of the best ASUS ROG XG Mobile available on Amazon in 2026.
