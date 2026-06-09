@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (150 total)
+## Available Articles (151 total)
 
+- [Top 4 Best 12" Commercial Meat Slicer， 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-189-12-commercial-meat-slicer/): Complete comparison of the best 12" Commercial Meat Slicer， available on Amazon in 2026.
 - [Top 4 Best Waring Commercial 10lb Heavy-Duty 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-187-waring-commercial-10lb-heavy-duty/): Complete comparison of the best Waring Commercial 10lb Heavy-Duty available on Amazon in 2026.
 - [Top 4 Best Lotus Coffee Maker with 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-184-lotus-coffee-maker-with/): Complete comparison of the best Lotus Coffee Maker with available on Amazon in 2026.
 - [Top 4 Best CUCKOO Twin Pressure Rice 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-183-cuckoo-twin-pressure-rice/): Complete comparison of the best CUCKOO Twin Pressure Rice available on Amazon in 2026.
