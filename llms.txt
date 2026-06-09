@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (113 total)
+## Available Articles (114 total)
 
+- [Top 4 Best OPPO Find X9 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-134-oppo-find-x9-pro/): Complete comparison of the best OPPO Find X9 Pro available on Amazon in 2026.
 - [Top 4 Best ASUS ZenFone 7 Dual-SIM 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-133-asus-zenfone-7-dual-sim/): Complete comparison of the best ASUS ZenFone 7 Dual-SIM available on Amazon in 2026.
 - [Top 2 Best Google Pixel 9-5G Smartphone, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-132-google-pixel-9-5g-smartphone/): Complete comparison of the best Google Pixel 9-5G Smartphone, available on Amazon in 2026.
 - [Top 4 Best HONOR Magic4 Pro Dual-SIM 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-131-honor-magic4-pro-dual-sim/): Complete comparison of the best HONOR Magic4 Pro Dual-SIM available on Amazon in 2026.
