@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (123 total)
+## Available Articles (124 total)
 
+- [Top 4 Best FOSSIBOT S3 Pro Unlocked 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-144-fossibot-s3-pro-unlocked/): Complete comparison of the best FOSSIBOT S3 Pro Unlocked available on Amazon in 2026.
 - [Top 4 Best Motorola RAZR 60 Ultra 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-143-motorola-razr-60-ultra/): Complete comparison of the best Motorola RAZR 60 Ultra available on Amazon in 2026.
 - [Top 4 Best Motorola Razr 40 Ultra 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-142-motorola-razr-40-ultra/): Complete comparison of the best Motorola Razr 40 Ultra available on Amazon in 2026.
 - [Top 4 Best Honor 20 Pro Phantom 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-141-honor-20-pro-phantom/): Complete comparison of the best Honor 20 Pro Phantom available on Amazon in 2026.
