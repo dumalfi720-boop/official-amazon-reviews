@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (116 total)
+## Available Articles (117 total)
 
+- [Top 4 Best HONOR Magic8 Pro 5G 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-137-honor-magic8-pro-5g/): Complete comparison of the best HONOR Magic8 Pro 5G available on Amazon in 2026.
 - [Top 4 Best Motorola Razr 50 Ultra 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-136-motorola-razr-50-ultra/): Complete comparison of the best Motorola Razr 50 Ultra available on Amazon in 2026.
 - [Top 4 Best Samsung Galaxy S25 Ultra 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-135-samsung-galaxy-s25-ultra/): Complete comparison of the best Samsung Galaxy S25 Ultra available on Amazon in 2026.
 - [Top 4 Best OPPO Find X9 Pro 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-134-oppo-find-x9-pro/): Complete comparison of the best OPPO Find X9 Pro available on Amazon in 2026.
