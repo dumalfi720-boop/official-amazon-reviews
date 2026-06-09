@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (141 total)
+## Available Articles (142 total)
 
+- [Top 4 Best Terra Kaffe Demi Compact 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-170-terra-kaffe-demi-compact/): Complete comparison of the best Terra Kaffe Demi Compact available on Amazon in 2026.
 - [Top 4 Best Commercial Automatic Soda Can 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-169-commercial-automatic-soda-can/): Complete comparison of the best Commercial Automatic Soda Can available on Amazon in 2026.
 - [Top 4 Best Touchscreen Can Sealing Machine 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-168-touchscreen-can-sealing-machine/): Complete comparison of the best Touchscreen Can Sealing Machine available on Amazon in 2026.
 - [Top 4 Best Empava Built-In Electric Induction 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-167-empava-built-in-electric-induction/): Complete comparison of the best Empava Built-In Electric Induction available on Amazon in 2026.
