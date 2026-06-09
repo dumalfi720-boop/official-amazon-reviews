@@ -13,8 +13,9 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (134 total)
+## Available Articles (135 total)
 
+- [Top 4 Best Jura C3 Piano White, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-160-jura-c3-piano-white/): Complete comparison of the best Jura C3 Piano White, available on Amazon in 2026.
 - [Top 4 Best Jura C3 Piano Black, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-159-jura-c3-piano-black/): Complete comparison of the best Jura C3 Piano Black, available on Amazon in 2026.
 - [Top 4 Best Jura C9 Piano White, 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-157-jura-c9-piano-white/): Complete comparison of the best Jura C9 Piano White, available on Amazon in 2026.
 - [Top 4 Best Refrigeration Heat Exchange Parts 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-155-refrigeration-heat-exchange-parts/): Complete comparison of the best Refrigeration Heat Exchange Parts available on Amazon in 2026.
