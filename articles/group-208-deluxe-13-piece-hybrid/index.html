@@ -65,8 +65,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -186,10 +184,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(943 verified reviews)</span></div>
           <h2>Deluxe 13 Piece Hybrid Ceramic Nonstick Cookware Set-5 PC Frying Pan Set, 6 PC Pot Set, 3.7QT Deep Sauté Pan, Induction Ready, PFOA Free Compatible with All Cooktops for Home Daily Cooking (Burgundy)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:35</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -224,10 +219,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(283 verified reviews)</span></div>
           <h2>Deluxe 13 Piece Hybrid Ceramic Nonstick Stainless Steel Cookware Set-5 Piece Frying Pan Set, 6 PC Pot Set, 3.7QT Deep Sauté Pan&Lid, Induction Ready, Stay Cool, PFOA Free Compatible with All Cooktops</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:59</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -262,10 +254,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3297 verified reviews)</span></div>
           <h2>Deluxe 13 Piece Hybrid Ceramic Nonstick Stainless Steel Cookware Set-5 Piece Frying Pan Set, 6 PC Pot Set, 3.7QT Deep Sauté Pan&Lid, Induction Ready, Stay Cool, PFOA Free Compatible with All Cooktops</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:39</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -300,10 +289,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(1916 verified reviews)</span></div>
           <h2>DELUXE Hybrid Ceramic Nonstick 6 PCS Pot Set, 1.3, 3&5.4-Quart Pot with Tempered Glass Lid, Stainless Steel Cookware Pots with Stay-Cool Handle, Dishwasher Safe, Compatible with All Cooktops</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:26</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -551,18 +537,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {

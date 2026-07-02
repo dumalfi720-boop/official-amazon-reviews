@@ -65,8 +65,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -186,10 +184,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(2141 verified reviews)</span></div>
           <h2>msecore AI Mini PC - 14th Gen Intel Core i9-14900F 24-Core Processor, 64GB DDR5 RAM, 4T PCIE 4.0 SSD, GeForce RTX 5060Ti 16GB GDDR7 Graphics, 8K, WiFi 6e, 4* Display, Windows 11 Pro</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:54</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -224,10 +219,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(1993 verified reviews)</span></div>
           <h2>Beelink Mini S13 Mini PC,13th Gen Intel N150 (Up to 3.6GHz), Low Power Mini Computer with 12GB LPDDR5, 512GB SSD, 4K Dual Display, WiFi6, BT5.2, 2.5G LAN</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:41</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -262,10 +254,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(129 verified reviews)</span></div>
           <h2>Multi Ports USB Laptop Car Charger, Fast Charge 200w PD3.0 Adapter Compatible with MacBook pro/Lenovo Thinkpad/Dell inspiron/Surface Pro/HP, Cell Phones Tablets and Other USB Devices</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:55</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -300,10 +289,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3946 verified reviews)</span></div>
           <h2>msecore Mini AI PC Liquid Cooled, 14th Gen Core i9-14900F with 64G DDR5 RAM 4T PCIE4.0 SSD Desktop Computer, RTX5070 12G, 8K, 1*HDMI, 3*DisplayPort, Optical, WiFi 6e, Windows 11 Pro</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:35</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -547,18 +533,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {

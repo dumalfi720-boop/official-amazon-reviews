@@ -65,8 +65,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -186,10 +184,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(2731 verified reviews)</span></div>
           <h2>Dell Pro 16(Next-gen Latitude 3550) 16” FHD+ Display Business Laptop, Intel 10 Core i5-120U, 16GB DDR5 RAM, 512GB SSD, WiFi 6E + BT, Backlit Keyboard, HD Webcam, RJ-45, Win 11 Pro</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="7">7:21</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -224,10 +219,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(157 verified reviews)</span></div>
           <h2>Dell P2725HE Pro 27-inch FHD Monitor, with USB-C Hub, HDMI, DisplayPort, and RJ45 Port (Certified Renewed)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="7">7:36</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -262,10 +254,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(4391 verified reviews)</span></div>
           <h2>Dell P2225H 22-inch 1080P Full HD Wide Angle Backlit LED LCD Professional Monitor, 2-Pack Low Blue Light, Ultrathin Bezel, IPS, VGA, HDMI, DisplayPort, USB Hub, 15W PD USB-C (Renewed)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="7">7:55</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -300,10 +289,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(2362 verified reviews)</span></div>
           <h2>One Cable Connection Laptop Screen Extender Monitor Portable, Ultra Thin 14.2" 1080P FHD Lightweight Triple Screen,Fit for 13-17" Laptop, Plug & Play Compatiable with Win/Mac/Chrome/Android/Switch</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="7">7:35</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -545,18 +531,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {

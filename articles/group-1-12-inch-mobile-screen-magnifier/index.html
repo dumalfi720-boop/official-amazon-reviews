@@ -33,8 +33,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -150,10 +148,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(0 verified reviews)</span></div>
           <h2>12-Inch Mobile Screen Magnifier - HD 3D Foldable Phone Amplifier for Movies, Videos, and Reading Universal Adjustable Eye Protection, Suitable Kids Seniors</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="10">10:00</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -188,10 +183,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(0 verified reviews)</span></div>
           <h2>Screen Magnifier,10 Inch Pull-Out Mobile Phone Screen Magnifier Stand 3D Enlarger Video Amplifier Projector Bracket</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="10">10:00</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -226,10 +218,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(0 verified reviews)</span></div>
           <h2>Screen Magnifier,8 Inch 3D HD Cell Phone Screen Amplifier Bracket, Portable Universal Screen Magnifier Screen Expander for Smartphone,A (B)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="10">10:00</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -264,10 +253,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(0 verified reviews)</span></div>
           <h2>12 Inch Phone Screen Magnifier, 3D HD Mobile Phone Screen Video Magnifying Glass, Pull-Out Folding and Stretching Desktop Stand, Supports All Smartphones,B,10 inches (A 12 inches)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="10">10:00</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -517,18 +503,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {

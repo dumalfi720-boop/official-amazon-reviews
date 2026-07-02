@@ -65,8 +65,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -186,10 +184,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3367 verified reviews)</span></div>
           <h2>NUU N30 Cell Phone Unlocked for T-Mobile, Mint, Metro, Qlink, Tello 6GB/128GB, Teen Phone, Dual SIM 4G, Octa-Core 6.7" 90Hz HD+, Any Parental APP, Unlocked Android Phones, Purple, 1 Year US Warranty</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:29</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -224,10 +219,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(2614 verified reviews)</span></div>
           <h2>jioeuinly</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:10</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -262,10 +254,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3138 verified reviews)</span></div>
           <h2>for NUU N30 N20 N10 A25 A15 B30 B10 Case, Case Wallet with Belt Clip & Card Holder for Ulefone Note 19 / Ulefone Note 20 Pro/Ulefone Note 21/ Samsung Galaxy S25 FE</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:28</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -300,10 +289,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(208 verified reviews)</span></div>
           <h2>Touch Screen Phone Bag Crossbody Cellphone Case for NUU N30 2024, Nuu N30 Case Cash Slots Handbag Purse Girly PU Leather Wallet Purse Crossbody Lanyard with Shoulder Strap NuuN30 Cover-Pink</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:40</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -551,18 +537,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {

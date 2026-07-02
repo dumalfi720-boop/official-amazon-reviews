@@ -65,8 +65,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -186,10 +184,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3572 verified reviews)</span></div>
           <h2>Tree Shade Wall Decal Stickers - Multiple Colors Available, 72" x 85" (6 ft. Tall). Nature Vinyl Wall Art Decal. #312</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:36</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -224,10 +219,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(4102 verified reviews)</span></div>
           <h2>Levtex Baby - Colette Crib Bed Set - Baby Nursery Set - Grey Pink White - Unicorn - 5 Piece Set Includes Quilt, Two Fitted Sheets, Wall Decal & Skirt/Dust Ruffle</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:38</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -262,10 +254,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(2138 verified reviews)</span></div>
           <h2>-Green Cartoon Pine Forest Nursery Fabric Wallpaper for Boys and Girls Children's Bedroom Living Room Woodland Plants Large Wall Mural- 160"x108"（ not Peel and Stick）</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:37</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -300,10 +289,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3999 verified reviews)</span></div>
           <h2>Levtex Baby - Willow Crib Bed Set - Baby Nursery Set - Pink - Soft Rosette Pintuck - 5 Piece Set Includes Quilt, Fitted Sheet, Diaper Stacker, Wall Decal & Crib Skirt/Dust Ruffle</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="8">8:07</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">SPECIAL PRICE</span>
           </div>
@@ -551,18 +537,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {

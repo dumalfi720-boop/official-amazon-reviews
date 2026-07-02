@@ -65,8 +65,6 @@
     .rev-count{color:#666;font-size:.82rem}
     .carousel-info h2{font-size:1.4rem;font-weight:800;line-height:1.3;margin-bottom:8px}
     .short-desc{font-size:.9rem;color:#555;margin-bottom:14px}
-    .timer-box{background:#fff8e1;border:1px solid #ffc107;border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.88rem;font-weight:600}
-    .countdown{background:#cc0000;color:#fff;padding:4px 10px;border-radius:6px;font-size:1rem;font-weight:800;min-width:60px;text-align:center}
     .price-box{margin-bottom:14px}
     .price-from{font-size:.82rem;color:#666;margin-bottom:4px}
     .badge-excl{background:#232f3e;color:#ff9900;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:700}
@@ -186,10 +184,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(714 verified reviews)</span></div>
           <h2>Lenovo ThinkPad T1g Gen 8, AI Laptop, Intel Ultra 9 285H vPro (5.4 GHz), 16" 4K (3840 x 2400) 800 nits, 64GB DDR5, 4TB Gen5 SSD, NVIDIA RTX 5070, 5MP Camera Computer Vision, Win 11 Pro- Black</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:44</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -224,10 +219,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(980 verified reviews)</span></div>
           <h2>Lenovo ThinkPad L14 Ryzen 5 PRO 7530U 6-Core 256GB SSD 16GB RAM FHD (1920x1080) IPS Non Touch Windows 11 Professional (Renewed)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:31</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -262,10 +254,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(3591 verified reviews)</span></div>
           <h2>Lenovo Thinkpad T14S Business Laptop, 14" FHD (1920 x 1080), Intel Core i7-10510, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro (Renewed)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:56</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -300,10 +289,7 @@
           <div class="stars">★★★★★ <span class="rev-count">(2948 verified reviews)</span></div>
           <h2>Lenovo ThinkPad L14 Laptop Windows 11 Pro, 14in ThinkPad Laptop, Intel Core i5-10310, 16GB RAM, 256GB SSD, RJ-45, HDMI (Renewed)</h2>
           <p class="short-desc"></p>
-          <div class="timer-box">
-            <span>⏱ ATTENTION: Flash Sale!</span>
-            <span class="countdown" data-min="12">12:25</span>
-          </div>
+          
           <div class="price-box">
             <span class="badge-excl">EXCLUSIVE DEAL</span>
           </div>
@@ -545,18 +531,6 @@ function showSlide(n) {
 
 function changeSlide(dir) { showSlide(currentSlide + dir); }
 function goSlide(n) { showSlide(n); }
-
-// Countdown timers
-document.querySelectorAll('.countdown').forEach(el => {
-  let secs = (parseInt(el.dataset.min) || 10) * 60 + Math.floor(Math.random() * 60);
-  setInterval(() => {
-    secs--;
-    if (secs < 0) secs = 900;
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    el.textContent = m + ':' + s;
-  }, 1000);
-});
 
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(q => {
