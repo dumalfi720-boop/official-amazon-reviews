@@ -13,8 +13,18 @@ Official Amazon Reviews publishes detailed product comparison articles to help c
 - No paid placements or sponsored reviews
 - Updated regularly with current pricing and availability
 
-## Available Articles (291 total)
+## Available Articles (301 total)
 
+- [Top 4 Best Stinger HORIZON10 Jeep Wrangler 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-382-stinger-horizon10-jeep-wrangler/): Complete comparison of the best Stinger HORIZON10 Jeep Wrangler available on Amazon in 2026.
+- [Top 4 Best Victron Energy MultiPlus-II Pure 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-380-victron-energy-multiplus-ii-pure/): Complete comparison of the best Victron Energy MultiPlus-II Pure available on Amazon in 2026.
+- [Top 4 Best PowMr 10000W Solar Inverter 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-379-powmr-10000w-solar-inverter/): Complete comparison of the best PowMr 10000W Solar Inverter available on Amazon in 2026.
+- [Top 4 Best PowMr 10000W Hybrid Solar 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-378-powmr-10000w-hybrid-solar/): Complete comparison of the best PowMr 10000W Hybrid Solar available on Amazon in 2026.
+- [Top 4 Best Autel MaxiSys MS906MAX OBD2 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-377-autel-maxisys-ms906max-obd2/): Complete comparison of the best Autel MaxiSys MS906MAX OBD2 available on Amazon in 2026.
+- [Top 4 Best CURT 52202 RVibrake 4 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-376-curt-52202-rvibrake-4/): Complete comparison of the best CURT 52202 RVibrake 4 available on Amazon in 2026.
+- [Top 4 Best Kranzle 1622 TS Pressure 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-375-kranzle-1622-ts-pressure/): Complete comparison of the best Kranzle 1622 TS Pressure available on Amazon in 2026.
+- [Top 4 Best Autel MaxiSYS MS906 PRO2-TS 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-373-autel-maxisys-ms906-pro2-ts/): Complete comparison of the best Autel MaxiSYS MS906 PRO2-TS available on Amazon in 2026.
+- [Top 4 Best Compatible With A7 Headlight 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-370-compatible-with-a7-headlight/): Complete comparison of the best Compatible With A7 Headlight available on Amazon in 2026.
+- [Top 4 Best Miller Digital Infinity™, ClearLight 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-366-miller-digital-infinity-clearlight/): Complete comparison of the best Miller Digital Infinity™, ClearLight available on Amazon in 2026.
 - [Top 4 Best DEWALT 20V MAX XR 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-364-dewalt-20v-max-xr/): Complete comparison of the best DEWALT 20V MAX XR available on Amazon in 2026.
 - [Top 4 Best Delta Faucet 24-Inch Reversible 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-363-delta-faucet-24-inch-reversible/): Complete comparison of the best Delta Faucet 24-Inch Reversible available on Amazon in 2026.
 - [Top 4 Best AquaTru Classic Alkaline Countertop 2026 – Complete Review](https://official-amazon-reviews.vercel.app/articles/group-360-aquatru-classic-alkaline-countertop/): Complete comparison of the best AquaTru Classic Alkaline Countertop available on Amazon in 2026.
