@@ -35,7 +35,7 @@ KW_JSON   = Path(__file__).parent / "C_keywords_para_artigo.json"
 KW_AMAZON = Path(__file__).parent / "C_keywords_amazon.json"
 ART_DIR   = Path(r"C:\projetos\official-amazon-reviews\articles")
 INDEX_JSON = ART_DIR / "index.json"
-SITE_URL  = "https://OfficialReviewsproduct.vercel.app"
+SITE_URL  = "https://official-reviews-product.vercel.app"
 TODAY     = date.today().isoformat()
 
 
